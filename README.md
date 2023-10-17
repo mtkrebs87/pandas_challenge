@@ -1,4 +1,6 @@
-Overall, this was a fun and challenging assignment. I felt most challenged by the concepts of 'groupby' and 'index' (perhaps because I mixed them up!). But after some trial and error talking to other students, and looking at code written by others, I feel more confident when faced with both of those concepts. I also felt this challenge gave me some great practices establishing values and dataframes.
+    Overall, this was a fun and challenging assignment. I felt most challenged by the concepts of 'groupby' and 'index' (perhaps because I mixed them up!). But after some trial and error talking to other students, and looking at code written by others, I feel more confident when faced with both of those concepts. I also felt this challenge gave me some great practices establishing values and dataframes.
+
+_________________________________________________________________________________________________________________________
 
 Some resources that I used for this assignment are listed below:
 
@@ -9,7 +11,11 @@ https://www.knytes.com/Cleaning-School-Data-with-Pandas/
 https://www.youtube.com/watch?v=mBCG9J1TVTc
 
 
-Below is the abstract for the assignment:
+___________________________________________________________________________________________________________________________
+
+
+
+********** Below is the abstract for the assignment:
 
 
 In this assignment, you’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
